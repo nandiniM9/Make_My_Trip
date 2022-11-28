@@ -1,0 +1,601 @@
+1669272857850	geckodriver	INFO	Listening on 127.0.0.1:54488
+1669272860923	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54489" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofilek20TAz"
+1669272861205	Marionette	INFO	Marionette enabled
+1669272861210	Marionette	INFO	Listening on port 54501
+Read port: 54501
+WebDriver BiDi listening on ws://127.0.0.1:54489
+1669272861340	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofilek20TAz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54489/devtools/browser/31f56b38-9877-4dab-8bd5-8eef88fa3b33
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669272867030	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1669272876226	Marionette	INFO	Stopped listening on port 54501
+1669272982748	geckodriver	INFO	Listening on 127.0.0.1:54758
+1669272985785	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54759" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofile5626Lk"
+1669272986037	Marionette	INFO	Marionette enabled
+1669272986041	Marionette	INFO	Listening on port 54768
+WebDriver BiDi listening on ws://127.0.0.1:54759
+Read port: 54768
+1669272986176	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofile5626Lk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54759/devtools/browser/44d26da0-21ca-4e04-a1da-ccf6f497a700
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669272992362	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1669273004175	Marionette	INFO	Stopped listening on port 54768
+[Parent 13928, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+1669273049176	geckodriver	INFO	Listening on 127.0.0.1:54958
+1669273052213	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54959" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofileM8c9DQ"
+1669273052515	Marionette	INFO	Marionette enabled
+1669273052519	Marionette	INFO	Listening on port 54968
+Read port: 54968
+WebDriver BiDi listening on ws://127.0.0.1:54959
+1669273052633	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofileM8c9DQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54959/devtools/browser/9a375e4e-f939-44b6-bc63-f7c8989a26e1
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669273060383	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1669273078497	Marionette	INFO	Stopped listening on port 54968
+1669273348993	geckodriver	INFO	Listening on 127.0.0.1:55284
+1669273352064	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55285" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofile8nuC46"
+1669273352329	Marionette	INFO	Marionette enabled
+1669273352333	Marionette	INFO	Listening on port 55294
+Read port: 55294
+WebDriver BiDi listening on ws://127.0.0.1:55285
+1669273352444	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofile8nuC46\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55285/devtools/browser/d42f8941-7f40-44d8-abae-2fb1051ed97b
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669273356809	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1669273376683	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.makemytrip.com/serviceWorkerHotelDesktop.js, line 1: NetworkError: WorkerGlobalScope.importScripts: Failed to load worker script at https://www.makemytrip.com/workbox-91bfc38c.js (nsresult = 0x80530013)
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669273382165	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669273630164	geckodriver	INFO	Listening on 127.0.0.1:55579
+1669273633251	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55580" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofile0AdmpA"
+1669273633700	Marionette	INFO	Marionette enabled
+1669273633703	Marionette	INFO	Listening on port 55589
+WebDriver BiDi listening on ws://127.0.0.1:55580
+Read port: 55589
+1669273633914	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofile0AdmpA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55580/devtools/browser/76ed9294-6394-4f89-a286-369c3b0ae517
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669273638163	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669273654604	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.makemytrip.com/serviceWorkerHotelDesktop.js, line 1: NetworkError: WorkerGlobalScope.importScripts: Failed to load worker script at https://www.makemytrip.com/workbox-91bfc38c.js (nsresult = 0x80530013)
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669273659491	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669283268112	geckodriver	INFO	Listening on 127.0.0.1:56924
+1669283271200	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56925" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofilegrrg8u"
+1669283271896	Marionette	INFO	Marionette enabled
+1669283271901	Marionette	INFO	Listening on port 56934
+Read port: 56934
+WebDriver BiDi listening on ws://127.0.0.1:56925
+1669283272036	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofilegrrg8u\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56925/devtools/browser/52fd1d8b-f77a-4622-952e-1c5bba7adf32
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669283281576	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669283285090	Marionette	INFO	Stopped listening on port 56934
+1669283480415	geckodriver	INFO	Listening on 127.0.0.1:57147
+1669283483478	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57148" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofilemLvVlq"
+1669283483841	Marionette	INFO	Marionette enabled
+1669283483845	Marionette	INFO	Listening on port 57157
+WebDriver BiDi listening on ws://127.0.0.1:57148
+Read port: 57157
+1669283484047	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofilemLvVlq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57148/devtools/browser/46e00abc-40a9-4a6a-9acf-7a74492e64e5
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669283489843	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1669283492890	Marionette	INFO	Stopped listening on port 57157
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1106: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Vishi\AppData\Local\Temp\rust_mozprofilemLvVlq\protections.sqlite
+[Parent 4208, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:559
+1669283559219	geckodriver	INFO	Listening on 127.0.0.1:57355
+1669283562309	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57356" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofilei4ZwVS"
+1669283562561	Marionette	INFO	Marionette enabled
+1669283562565	Marionette	INFO	Listening on port 57365
+Read port: 57365
+WebDriver BiDi listening on ws://127.0.0.1:57356
+1669283562700	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofilei4ZwVS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57356/devtools/browser/d7b69c55-843d-4982-b300-10f0f750c871
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669283567540	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669283569275	Marionette	INFO	Stopped listening on port 57365
+1669283620789	geckodriver	INFO	Listening on 127.0.0.1:57559
+1669283623869	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57560" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofilekNPr9V"
+1669283624227	Marionette	INFO	Marionette enabled
+1669283624231	Marionette	INFO	Listening on port 57569
+Read port: 57569
+WebDriver BiDi listening on ws://127.0.0.1:57560
+1669283624368	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofilekNPr9V\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57560/devtools/browser/71c9b0b1-0543-45c7-b044-c75697db8810
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669283632669	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1669283656148	Marionette	INFO	Stopped listening on port 57569
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669284895297	geckodriver	INFO	Listening on 127.0.0.1:57970
+1669284898392	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57971" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofileLmjgwB"
+1669284898755	Marionette	INFO	Marionette enabled
+1669284898758	Marionette	INFO	Listening on port 57980
+WebDriver BiDi listening on ws://127.0.0.1:57971
+Read port: 57980
+1669284898892	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofileLmjgwB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57971/devtools/browser/0f4a334c-b510-4b18-a7b2-7ffd1b02faf9
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669284907456	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1669284917794	Marionette	INFO	Stopped listening on port 57980
+[Parent 6700, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669284942486	geckodriver	INFO	Listening on 127.0.0.1:58145
+1669284945562	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58146" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofiles9aTJ8"
+1669284946050	Marionette	INFO	Marionette enabled
+1669284946055	Marionette	INFO	Listening on port 58155
+Read port: 58155
+WebDriver BiDi listening on ws://127.0.0.1:58146
+1669284946207	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofiles9aTJ8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58146/devtools/browser/7d4fb0db-f5c6-4000-bf16-6a0fd37cd1b8
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669284951380	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1669284962655	Marionette	INFO	Stopped listening on port 58155
+1669285371977	geckodriver	INFO	Listening on 127.0.0.1:58414
+1669285375050	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58415" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofileJcx1bK"
+1669285375590	Marionette	INFO	Marionette enabled
+1669285375597	Marionette	INFO	Listening on port 58424
+Read port: 58424
+WebDriver BiDi listening on ws://127.0.0.1:58415
+1669285375721	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofileJcx1bK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58415/devtools/browser/6aa1338e-d3b4-46eb-86e1-af5484f3f4a7
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669285383672	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1669285395414	Marionette	INFO	Stopped listening on port 58424
+1669285487066	geckodriver	INFO	Listening on 127.0.0.1:58653
+1669285490152	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58654" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofilek2P8jc"
+1669285490459	Marionette	INFO	Marionette enabled
+1669285490462	Marionette	INFO	Listening on port 58663
+Read port: 58663
+WebDriver BiDi listening on ws://127.0.0.1:58654
+1669285490577	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofilek2P8jc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58654/devtools/browser/0b5ab7fd-3fe7-4524-be49-029920dd1ab6
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669285495618	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1669285505070	Marionette	INFO	Stopped listening on port 58663
+1669285658477	geckodriver	INFO	Listening on 127.0.0.1:58917
+1669285661566	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58918" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofileXDIwmW"
+1669285661996	Marionette	INFO	Marionette enabled
+1669285662001	Marionette	INFO	Listening on port 58927
+Read port: 58927
+WebDriver BiDi listening on ws://127.0.0.1:58918
+1669285662120	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofileXDIwmW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58918/devtools/browser/89717039-c014-4430-b21a-e51ed6b07b3e
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669285667312	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1669285679591	Marionette	INFO	Stopped listening on port 58927
+1669285786016	geckodriver	INFO	Listening on 127.0.0.1:59175
+1669285789066	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59176" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofilewQ1WWs"
+1669285789416	Marionette	INFO	Marionette enabled
+1669285789420	Marionette	INFO	Listening on port 59185
+WebDriver BiDi listening on ws://127.0.0.1:59176
+Read port: 59185
+1669285789626	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofilewQ1WWs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59176/devtools/browser/8f17ad6f-6db1-406b-b313-40e49ca03b7a
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669285799217	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1669285809712	Marionette	INFO	Stopped listening on port 59185
+1669286024331	geckodriver	INFO	Listening on 127.0.0.1:59552
+1669286027371	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59553" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofileRo29Ns"
+1669286027741	Marionette	INFO	Marionette enabled
+1669286027745	Marionette	INFO	Listening on port 59562
+Read port: 59562
+WebDriver BiDi listening on ws://127.0.0.1:59553
+1669286027882	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofileRo29Ns\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59553/devtools/browser/e3430251-b39a-4a6d-8de2-eb5e0bfcb1a4
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669286033889	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1669286045540	Marionette	INFO	Stopped listening on port 59562
+1669286298858	geckodriver	INFO	Listening on 127.0.0.1:59832
+1669286301915	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59833" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofilegVZnLU"
+1669286302170	Marionette	INFO	Marionette enabled
+1669286302174	Marionette	INFO	Listening on port 59842
+WebDriver BiDi listening on ws://127.0.0.1:59833
+Read port: 59842
+1669286302380	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofilegVZnLU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59833/devtools/browser/725b2652-34af-40a3-82e3-26195094d416
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669286312485	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1669286316470	Marionette	INFO	Stopped listening on port 59842
+1669286500809	geckodriver	INFO	Listening on 127.0.0.1:60161
+1669286503864	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60162" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofilegaq87S"
+1669286504252	Marionette	INFO	Marionette enabled
+1669286504257	Marionette	INFO	Listening on port 60173
+Read port: 60173
+WebDriver BiDi listening on ws://127.0.0.1:60162
+1669286504389	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofilegaq87S\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60162/devtools/browser/485f9ea5-dc3a-493e-b3d5-6f3e10f0fb2d
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669286512940	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1669286529889	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669286540171	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669286544575	Marionette	INFO	Stopped listening on port 60173
+!!! error running onStopped callback: TypeError: callback is not a function
+1669286575678	geckodriver	INFO	Listening on 127.0.0.1:60399
+1669286578728	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60400" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofilezzVL0H"
+1669286579125	Marionette	INFO	Marionette enabled
+1669286579129	Marionette	INFO	Listening on port 60411
+Read port: 60411
+WebDriver BiDi listening on ws://127.0.0.1:60400
+1669286579247	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofilezzVL0H\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60400/devtools/browser/6b33e51c-2eb9-44d4-a147-1baa7d0f4a5e
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669286586422	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1669286600094	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669286606967	Marionette	INFO	Stopped listening on port 60411
+1669286753504	geckodriver	INFO	Listening on 127.0.0.1:60678
+1669286756568	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60679" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofilevJcHlz"
+1669286756891	Marionette	INFO	Marionette enabled
+1669286756895	Marionette	INFO	Listening on port 60689
+Read port: 60689
+WebDriver BiDi listening on ws://127.0.0.1:60679
+1669286757007	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofilevJcHlz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60679/devtools/browser/85a86ae1-f393-4620-8ba6-c6fb8256ffd9
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669286763216	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1669286774621	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669286776369	Marionette	INFO	Stopped listening on port 60689
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 183: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1669286973469	geckodriver	INFO	Listening on 127.0.0.1:61036
+1669286976541	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61037" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofileeGLO8y"
+1669286976976	Marionette	INFO	Marionette enabled
+1669286976980	Marionette	INFO	Listening on port 61047
+Read port: 61047
+WebDriver BiDi listening on ws://127.0.0.1:61037
+1669286977100	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofileeGLO8y\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61037/devtools/browser/a6523c51-b426-458c-9a1e-ddf4976f22fa
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669286981921	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1669286989963	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669286991271	Marionette	INFO	Stopped listening on port 61047
+1669287135781	geckodriver	INFO	Listening on 127.0.0.1:61333
+1669287138842	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61334" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofileypx6YZ"
+1669287139240	Marionette	INFO	Marionette enabled
+1669287139244	Marionette	INFO	Listening on port 61344
+Read port: 61344
+WebDriver BiDi listening on ws://127.0.0.1:61334
+1669287139365	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofileypx6YZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61334/devtools/browser/7c34f465-a785-44c3-a465-f6e82a94b95c
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669287145051	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1669287157973	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669287159396	Marionette	INFO	Stopped listening on port 61344
+1669287300788	geckodriver	INFO	Listening on 127.0.0.1:61594
+1669287303876	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61595" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofileAtQ0Mb"
+1669287304321	Marionette	INFO	Marionette enabled
+1669287304324	Marionette	INFO	Listening on port 61607
+WebDriver BiDi listening on ws://127.0.0.1:61595
+Read port: 61607
+1669287304575	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofileAtQ0Mb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61595/devtools/browser/30d7e368-f27e-4be5-a640-e9328894160b
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669287310739	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1669287325940	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669287332870	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669287340872	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669287348538	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669287354766	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669287371420	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.makemytrip.com/serviceWorkerHotelDesktop.js, line 1: NetworkError: WorkerGlobalScope.importScripts: Failed to load worker script at https://www.makemytrip.com/workbox-91bfc38c.js (nsresult = 0x80530013)
+1669287382836	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669287922386	geckodriver	INFO	Listening on 127.0.0.1:62233
+1669287925478	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62234" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofiled0Vg2m"
+1669287925967	Marionette	INFO	Marionette enabled
+1669287925972	Marionette	INFO	Listening on port 62244
+Read port: 62244
+WebDriver BiDi listening on ws://127.0.0.1:62234
+1669287926123	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofiled0Vg2m\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62234/devtools/browser/6e1225bf-8577-4090-8657-bd8b234fe4a6
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669287930272	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669287938143	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669287942181	Marionette	INFO	Stopped listening on port 62244
+1669288226877	geckodriver	INFO	Listening on 127.0.0.1:62839
+1669288229968	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62840" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofile08no70"
+1669288230473	Marionette	INFO	Marionette enabled
+1669288230477	Marionette	INFO	Listening on port 62851
+Read port: 62851
+WebDriver BiDi listening on ws://127.0.0.1:62840
+1669288230594	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofile08no70\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62840/devtools/browser/728dddff-179e-44c2-845d-958dcf2377b5
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669288247723	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1669288262625	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1669288272662	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669288284131	Marionette	INFO	Stopped listening on port 62851
+1669288343053	geckodriver	INFO	Listening on 127.0.0.1:63258
+1669288346128	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63259" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofile3f49yR"
+1669288346556	Marionette	INFO	Marionette enabled
+1669288346564	Marionette	INFO	Listening on port 63270
+WebDriver BiDi listening on ws://127.0.0.1:63259
+Read port: 63270
+1669288346790	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofile3f49yR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63259/devtools/browser/7b7c32ca-ccad-4199-ba37-6e4ebe47f8ff
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669288351695	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1669288356218	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+1669288363626	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669288366019	Marionette	INFO	Stopped listening on port 63270
+1669288408494	geckodriver	INFO	Listening on 127.0.0.1:63496
+1669288411549	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63497" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofileZcihSH"
+1669288412053	Marionette	INFO	Marionette enabled
+1669288412060	Marionette	INFO	Listening on port 63507
+Read port: 63507
+WebDriver BiDi listening on ws://127.0.0.1:63497
+1669288412190	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofileZcihSH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63497/devtools/browser/4c173fbb-4219-4f27-ab71-c8059e679532
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669288417731	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1669288428210	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669288431977	Marionette	INFO	Stopped listening on port 63507
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669288974157	geckodriver	INFO	Listening on 127.0.0.1:63988
+1669288977212	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63989" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofilel7cf6e"
+1669288977602	Marionette	INFO	Marionette enabled
+1669288977607	Marionette	INFO	Listening on port 63999
+Read port: 63999
+WebDriver BiDi listening on ws://127.0.0.1:63989
+1669288977769	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofilel7cf6e\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63989/devtools/browser/f590e710-e322-4e9e-8640-1c744f8570a4
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669288983807	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669288991333	Marionette	INFO	Stopped listening on port 63999
+1669289030006	geckodriver	INFO	Listening on 127.0.0.1:64249
+1669289033065	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64250" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofilexKp5jN"
+1669289033432	Marionette	INFO	Marionette enabled
+1669289033436	Marionette	INFO	Listening on port 64261
+WebDriver BiDi listening on ws://127.0.0.1:64250
+Read port: 64261
+1669289033568	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofilexKp5jN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64250/devtools/browser/c73e038c-78d3-47d8-a665-deaa2ac4b5f7
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669289040495	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1669289052709	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669289059101	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669289067062	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669289073618	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669289080334	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669289098683	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.makemytrip.com/serviceWorkerHotelDesktop.js, line 1: NetworkError: WorkerGlobalScope.importScripts: Failed to load worker script at https://www.makemytrip.com/workbox-91bfc38c.js (nsresult = 0x80530013)
+1669289107371	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669289137026	Marionette	INFO	Stopped listening on port 64261
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669289434666	geckodriver	INFO	Listening on 127.0.0.1:64709
+1669289437741	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64710" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofile89rnp5"
+1669289438168	Marionette	INFO	Marionette enabled
+1669289438172	Marionette	INFO	Listening on port 64720
+WebDriver BiDi listening on ws://127.0.0.1:64710
+Read port: 64720
+1669289438429	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofile89rnp5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64710/devtools/browser/b51d0299-0f79-47d9-823a-89f8551a4a1e
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669289442140	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669289460564	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.makemytrip.com/serviceWorkerHotelDesktop.js, line 1: NetworkError: WorkerGlobalScope.importScripts: Failed to load worker script at https://www.makemytrip.com/workbox-91bfc38c.js (nsresult = 0x80530013)
+1669289467671	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669289480118	Marionette	INFO	Stopped listening on port 64720
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1669289560458	geckodriver	INFO	Listening on 127.0.0.1:64983
+1669289563521	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64984" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofilesiBdsY"
+1669289563806	Marionette	INFO	Marionette enabled
+1669289563809	Marionette	INFO	Listening on port 64994
+Read port: 64994
+WebDriver BiDi listening on ws://127.0.0.1:64984
+1669289563924	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofilesiBdsY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64984/devtools/browser/855c986e-d970-4a26-9b8d-c29ee62a1a92
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+1669289567149	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669289585288	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.makemytrip.com/serviceWorkerHotelDesktop.js, line 1: NetworkError: WorkerGlobalScope.importScripts: Failed to load worker script at https://www.makemytrip.com/workbox-91bfc38c.js (nsresult = 0x80530013)
+1669289592657	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669289640061	Marionette	INFO	Stopped listening on port 64994
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669290121599	geckodriver	INFO	Listening on 127.0.0.1:49265
+1669290124658	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49266" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofileTu8Ien"
+1669290125277	Marionette	INFO	Marionette enabled
+1669290125283	Marionette	INFO	Listening on port 49276
+Read port: 49276
+WebDriver BiDi listening on ws://127.0.0.1:49266
+1669290125486	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vishi\\AppData\\Local\\Temp\\rust_mozprofileTu8Ien\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49266/devtools/browser/e68b9447-de80-4f08-82c4-b776b05cde65
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669290131045	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.makemytrip.com/7UWIsg/ps/Es/8HLT/sXdR-M9cBS/EwufQQtQ3JOc/ATs5MA/aQF5AG/szBmcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669290134932	Marionette	INFO	Stopped listening on port 49276
+!!! error running onStopped callback: TypeError: callback is not a function
